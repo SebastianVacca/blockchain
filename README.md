@@ -99,12 +99,3 @@ http://127.0.0.1:5000/mine
 2. **Distribuir nodos**: Crear múltiples nodos para simular un blockchain descentralizado.
 3. **Agregar persistencia**: Guardar la cadena en una base de datos o archivo para mantener los datos después de reiniciar el servidor.
  
----
- 
-## Notas importantes
-Este proyecto es solo una demostración básica del funcionamiento de un blockchain. No está diseñado para usarse en producción. Si deseas implementarlo en un entorno real, necesitarás agregar características como seguridad, consenso distribuido y manejo de nodos en red.
- 
----
- 
-## Licencia
-Este proyecto está disponible bajo la licencia MIT.
